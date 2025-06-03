@@ -106,10 +106,38 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 ---
 
 ### 🛠️ Tools & Frameworks
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 10px; justify-items: center; background-color: #141414; padding: 20px; border-radius: 10px;">
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
   </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  </div>
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/>
+  </div>
+</div>
   <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px;">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
   </div>
@@ -156,4 +184,3 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SatishParmar1&icon=0&color=0)](https://visitcount.itsvg.in)
-
