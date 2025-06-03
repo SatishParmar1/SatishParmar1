@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Satish Parmar</h1>
 <h3 align="center">
 I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Computer Science. With hands-on experience in IoT, app development, and cloud technologies, I’ve built impactful projects ranging from smart healthcare apps to automation systems. I’ve led teams as the GDSC Android Lead, published a patent and a research paper, and earned recognition at multiple hackathons. Skilled in tools like Flutter, Firebase, Dart, and C++, I constantly strive to create innovative solutions with real-world impact.
@@ -15,7 +16,18 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 
 ---
 
+<a href="https://www.buymeacoffee.com/invite/SatishParmar1" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+
 ### 🚀 Work
+
+### 📱 Featured Projects from My Resume
+- 📰 **Trend Wave App** – A Flutter-based news app with Open News API and search functionality.
+- 💊 **Shree Sai Chemist App** – Medicine ordering app with Firestore integration and doctor prescription uploads. [Live Demo](https://bit.ly/shreesaichemist)
+- 👁️‍🗨️ **Object Detection for Blind Person** – IoT + Flutter project using ESP8266, Ultrasonic Sensor, and Google TTS.
+- 🎓 **Education Platform App** – Teachers can create secure tests and students can prepare for placements. Built with HTML, CSS, Bootstrap, and JS.
+- 🌦️ **Weather Forecasting App** – Built in Flutter, uses OpenWeather API and Firebase Authentication for real-time weather data.
 - 🔭 I’m currently working on:
   - [Smart Home IoT with Blockchain](https://github.com/SatishParmar1)
   - [Search UI App using Provider](https://github.com/SatishParmar1)
@@ -80,11 +92,12 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 
 ---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote of the Day
+<p align="center"><em>“Yesterday is history, tomorrow is a mystery, and today is a gift — that’s why it is called the present.”</em><br/>— Master Oogway, Kung Fu Panda</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SatishParmar1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SatishParmar1&icon=0&color=0)](https://visitcount.itsvg.in)
+
