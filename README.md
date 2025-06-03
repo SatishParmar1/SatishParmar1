@@ -22,6 +22,42 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 
 ### 🚀 Work
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: left;">
+  <div style="margin: 10px; max-width: 450px;">
+
+  🔭 <strong>I’m currently working on:</strong><br>
+  - <a href="https://github.com/SatishParmar1">Smart Home IoT with Blockchain</a><br>
+  - <a href="https://github.com/SatishParmar1">Search UI App using Provider</a>
+  </div>
+
+  <div style="margin: 10px; max-width: 450px;">
+  👯 <strong>I’m looking to collaborate on:</strong><br>
+  - <a href="https://github.com/SatishParmar1">AI + IoT Object Detection for Blind People</a><br>
+  - <a href="https://github.com/SatishParmar1">Student-Alumni Networking Platform</a>
+  </div>
+
+  <div style="margin: 10px; max-width: 450px;">
+  🤝 <strong>I’m looking for help with:</strong><br>
+  - <a href="https://github.com/SatishParmar1">App Scroll Control for Reels/Shorts Limiting</a><br>
+  - <a href="https://github.com/SatishParmar1">Remote Config-based App Walkthrough</a>
+  </div>
+
+  <div style="margin: 10px; max-width: 450px;">
+  🌱 <strong>I’m currently learning:</strong><br>
+  Flutter Advanced, Firebase Analytics, Spring Boot, Blockchain Integration
+  </div>
+
+  <div style="margin: 10px; max-width: 450px;">
+  💬 <strong>Ask me about:</strong><br>
+  Flutter, Dart, Firebase, IoT, App Development, REST APIs
+  </div>
+
+  <div style="margin: 10px; max-width: 450px;">
+  📫 <strong>How to reach me:</strong><br>
+  Email: <strong>satishparmarparmar486@gmail.com</strong>
+  </div>
+</div>
+
 ### 📱 Featured Projects from My Resume
 - 📰 **Trend Wave App** – A Flutter-based news app with Open News API and search functionality.
 - 💊 **Shree Sai Chemist App** – Medicine ordering app with Firestore integration and doctor prescription uploads. [Live Demo](https://bit.ly/shreesaichemist)
