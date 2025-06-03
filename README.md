@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Satish Parmar</h1>
 <h3 align="center">
 I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Computer Science. With hands-on experience in IoT, app development, and cloud technologies, I’ve built impactful projects ranging from smart healthcare apps to automation systems. I’ve led teams as the GDSC Android Lead, published a patent and a research paper, and earned recognition at multiple hackathons. Skilled in tools like Flutter, Firebase, Dart, and C++, I constantly strive to create innovative solutions with real-world impact.
@@ -106,7 +105,7 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 ---
 
 ### 🛠️ Tools & Frameworks
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 10px; justify-items: center; background-color: #141414; padding: 20px; border-radius: 10px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 10px; justify-items: center; background-color: #141414; padding: 20px; border-radius: 10px; width: 100%; max-width: 900px; height: auto;">
   <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
   </div>
@@ -184,3 +183,4 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SatishParmar1&icon=0&color=0)](https://visitcount.itsvg.in)
+```
