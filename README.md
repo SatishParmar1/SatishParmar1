@@ -22,7 +22,7 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 
 ### 🚀 Work
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: left;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: left;">
   <div style="margin: 10px; max-width: 450px;">
 
   🔭 <strong>I’m currently working on:</strong><br>
