@@ -105,7 +105,7 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 ---
 
 ### 🛠️ Tools & Frameworks
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 10px; justify-items: center; background-color: #141414; padding: 20px; border-radius: 10px; width: 100%; max-width: 900px; height: auto;">
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 10px; justify-items: center; background-color: #141414; padding: 20px; border-radius: 10px; width: 10%; max-width: 900px; height: auto;">
   <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
   </div>
