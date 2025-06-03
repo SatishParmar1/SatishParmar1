@@ -106,8 +106,18 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
 ---
 
 ### 🛠️ Tools & Frameworks
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 15px; justify-items: center; background-color: #141414; padding: 20px; border-radius: 10px; width: 100%; max-width: 900px;">
-
+<div align="center" style="
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: center;
+  background-color: #141414;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+">
   <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
   </div>
@@ -138,7 +148,8 @@ I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Comput
   <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/>
   </div>
-  </div>
+</div>
+
 ---
 
 ### 📊 GitHub Stats
