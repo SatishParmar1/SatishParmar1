@@ -64,12 +64,31 @@
                     </ul>
                 </div>
 
-🌱 I'm currently learning:	💬 Ask me about:
-Flutter Advanced	           Flutter
-Firebase Analytics	         Dart
-Spring Boot	                 Firebase
-Blockchain Integration	     IoT
-REST APIs                    App Development
+<div align="center">
+  <h1>Hey there 👋</h1>
+</div>
+
+---
+
+### 🌱 I'm currently learning:
+
+* **Flutter Advanced**
+* **Firebase Analytics**
+* **Spring Boot**
+* **Blockchain Integration**
+
+---
+
+### 💬 Ask me about:
+
+* **Flutter**
+* **Dart**
+* **Firebase**
+* **IoT**
+* **App Development**
+* **REST APIs**
+
+---
 
 
 </div>
