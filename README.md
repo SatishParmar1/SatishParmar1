@@ -64,29 +64,13 @@
                     </ul>
                 </div>
 
-<div style="background-color: #1f2937; border-radius: 0.5rem; padding: 1rem; display: flex; flex-wrap: wrap; justify-content: space-around; font-family: sans-serif;">
+🌱 I'm currently learning:	💬 Ask me about:
+Flutter Advanced	           Flutter
+Firebase Analytics	         Dart
+Spring Boot	                 Firebase
+Blockchain Integration	     IoT
+REST APIs                    App Development
 
-  <div style="background-color: #374151; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); margin: 0.5rem; padding: 1rem; width: 100%; max-width: 24rem;">
-    <strong style="color: #4ade80;">🌱 I’m currently learning:</strong><br>
-    <ul style="list-style-type: disc; list-style-position: inside; margin-left: 1rem; margin-top: 0.25rem; color: #d1d5db;">
-      <li>Flutter Advanced</li>
-      <li>Firebase Analytics</li>
-      <li>Spring Boot</li>
-      <li>Blockchain Integration</li>
-    </ul>
-  </div>
-
-  <div style="background-color: #374151; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); margin: 0.5rem; padding: 1rem; width: 100%; max-width: 24rem;">
-    <strong style="color: #4ade80;">💬 Ask me about:</strong><br>
-    <ul style="list-style-type: disc; list-style-position: inside; margin-left: 1rem; margin-top: 0.25rem; color: #d1d5db;">
-      <li>Flutter</li>
-      <li>Dart</li>
-      <li>Firebase</li>
-      <li>IoT</li>
-      <li>App Development</li>
-      <li>REST APIs</li>
-    </ul>
-  </div>
 
 </div>
 
