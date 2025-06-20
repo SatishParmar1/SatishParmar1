@@ -64,27 +64,31 @@
                     </ul>
                 </div>
 
- <div class="m-2 p-4 max-w-sm w-full md:w-1/2 lg:w-1/3 xl:w-1/4 bg-gray-800 rounded-lg shadow-md">
-                    <strong class="text-green-400">🌱 I’m currently learning:</strong><br>
-                    <ul class="list-disc list-inside ml-4 mt-1 text-gray-300">
-                        <li>Flutter Advanced</li>
-                        <li>Firebase Analytics</li>
-                        <li>Spring Boot</li>
-                        <li>Blockchain Integration</li>
-                    </ul>
-                </div>
+<div style="background-color: #1f2937; border-radius: 0.5rem; padding: 1rem; display: flex; flex-wrap: wrap; justify-content: space-around; font-family: sans-serif;">
 
-<div class="m-2 p-4 max-w-sm w-full md:w-1/2 lg:w-1/3 xl:w-1/4 bg-gray-800 rounded-lg shadow-md">
-                    <strong class="text-green-400">💬 Ask me about:</strong><br>
-                    <ul class="list-disc list-inside ml-4 mt-1 text-gray-300">
-                        <li>Flutter</li>
-                        <li>Dart</li>
-                        <li>Firebase</li>
-                        <li>IoT</li>
-                        <li>App Development</li>
-                        <li>REST APIs</li>
-                    </ul>
-                </div>
+  <div style="background-color: #374151; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); margin: 0.5rem; padding: 1rem; width: 100%; max-width: 24rem;">
+    <strong style="color: #4ade80;">🌱 I’m currently learning:</strong><br>
+    <ul style="list-style-type: disc; list-style-position: inside; margin-left: 1rem; margin-top: 0.25rem; color: #d1d5db;">
+      <li>Flutter Advanced</li>
+      <li>Firebase Analytics</li>
+      <li>Spring Boot</li>
+      <li>Blockchain Integration</li>
+    </ul>
+  </div>
+
+  <div style="background-color: #374151; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); margin: 0.5rem; padding: 1rem; width: 100%; max-width: 24rem;">
+    <strong style="color: #4ade80;">💬 Ask me about:</strong><br>
+    <ul style="list-style-type: disc; list-style-position: inside; margin-left: 1rem; margin-top: 0.25rem; color: #d1d5db;">
+      <li>Flutter</li>
+      <li>Dart</li>
+      <li>Firebase</li>
+      <li>IoT</li>
+      <li>App Development</li>
+      <li>REST APIs</li>
+    </ul>
+  </div>
+
+</div>
 
 <div class="m-2 p-4 max-w-sm w-full md:w-1/2 lg:w-1/3 xl:w-1/4 bg-gray-800 rounded-lg shadow-md">
                     <strong class="text-green-400">📫 How to reach me:</strong><br>
