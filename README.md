@@ -64,10 +64,6 @@
                     </ul>
                 </div>
 
-<div align="center">
-  <h1>Hey there 👋</h1>
-</div>
-
 ---
 
 ### 🌱 I'm currently learning:
