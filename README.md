@@ -100,7 +100,7 @@
 
 <div class="mb-10">
             <h2 class="text-3xl font-bold text-gray-100 mb-4 flex items-center">
-                <span class="mr-2 text-pink-400">📱</span> Featured Projects from My Resume
+                <span class="mr-2 text-pink-400">📱</span> Featured Projects 
             </h2>
             <ul class="list-disc list-inside text-gray-300 ml-4 space-y-2">
                 <li>📰 <strong class="text-green-400">Trend Wave App</strong> – A Flutter-based news app with Open News API and search functionality.</li>
