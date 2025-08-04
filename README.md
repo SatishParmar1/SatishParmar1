@@ -56,14 +56,6 @@
                     </ul>
                 </div>
 
-<div class="m-2 p-4 max-w-sm w-full md:w-1/2 lg:w-1/3 xl:w-1/4 bg-gray-800 rounded-lg shadow-md">
-                    <strong class="text-green-400">🤝 I’m looking for help with:</strong><br>
-                    <ul class="list-disc list-inside ml-4 mt-1 text-gray-300">
-                        <li><a href="https://github.com/SatishParmar1" class="text-green-300 hover:underline">App Scroll Control for Reels/Shorts Limiting</a></li>
-                        <li><a href="https://github.com/SatishParmar1" class="text-green-300 hover:underline">Remote Config-based App Walkthrough</a></li>
-                    </ul>
-                </div>
-
 ---
 
 ### 🌱 I'm currently learning:
