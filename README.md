@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.vercel.app/?font=Orbitron&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=FLUTTER+DEVELOPER+%7C+CODE+ARCHITECT;BUILDING+THE+FUTURE+WITH+DART;SYSTEM+ONLINE+%E2%9A%A1+READY+TO+CODE;FIREBASE+%7C+IoT+%7C+BLOCKCHAIN" alt="Cyber Typing SVG">
+<img src="https://readme-typing-svg.vercel.app/?font=Orbitron&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=960&height=100&lines=FLUTTER+DEVELOPER+%7C+CODE+ARCHITECT;BUILDING+THE+FUTURE+WITH+DART;SYSTEM+ONLINE+%E2%9A%A1+READY+TO+CODE;FIREBASE+%7C+IoT+%7C+BLOCKCHAIN" alt="Cyber Typing SVG">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBER%20SPACE%20ACTIVE&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=32" width="100%"/>
 
