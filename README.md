@@ -1,150 +1,245 @@
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=700&size=45&pause=1000&color=00B873&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Satish+Parmar;A+Passionate+Flutter+Developer;A+Creative+Problem+Solver;A+Lifelong+Learner" alt="Typing SVG">
-  </a>
+
+```
+███████╗ █████╗ ████████╗██╗███████╗██╗  ██╗    ██████╗  █████╗ ██████╗ ███╗   ███╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗╚══██╔══╝██║██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗████╗ ████║██╔══██╗██╔══██╗
+███████╗███████║   ██║   ██║███████╗███████║    ██████╔╝███████║██████╔╝██╔████╔██║███████║██████╔╝
+╚════██║██╔══██║   ██║   ██║╚════██║██╔══██║    ██╔═══╝ ██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██╔══██╗
+███████║██║  ██║   ██║   ██║███████║██║  ██║    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.vercel.app/?font=Orbitron&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=FLUTTER+DEVELOPER+%7C+CODE+ARCHITECT;BUILDING+THE+FUTURE+WITH+DART;SYSTEM+ONLINE+%E2%9A%A1+READY+TO+CODE;FIREBASE+%7C+IoT+%7C+BLOCKCHAIN" alt="Cyber Typing SVG">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBER%20SPACE%20ACTIVE&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=32" width="100%"/>
+
 </div>
+
+```diff
+@@ SYSTEM STATUS @@
++ [✓] Neural Network: ACTIVE
++ [✓] Code Compilation: OPTIMAL  
++ [✓] Firebase Connection: ESTABLISHED
++ [✓] Innovation Engine: RUNNING AT 100%
+```
+
+---
+
+## 🌐 **>> CONNECT WITH ME_**
 
 <div align="center">
 
-> I’m a passionate Flutter developer and Java enthusiast with a B.Tech in Computer Science. Skilled in tools like Flutter, Firebase, Dart, and C++, I constantly strive to create innovative solutions with real-world impact.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/satish-parmar-8021a5245/)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/978satish)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:satishparmarparmar486@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=000000)](https://satishparmar1.github.io/Portfolio/)
 
-</div>
-
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/satish-parmar-8021a5245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Satish%20Parmar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/978satish" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/978satish?logo=twitter&style=for-the-badge" alt="Twitter"/>
-  </a>
-  <a href="mailto:satishparmarparmar486@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://satishparmar1.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
 ---
 
-### 📊 My GitHub Stats
+## ⚡ **>> SYSTEM OVERVIEW_**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatishParmar1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SatishParmar1&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="max-width: 100%;"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishParmar1&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" style="max-width: 100%;"/>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  DESIGNATION: Flutter Developer & Java Specialist            ║
+║  EDUCATION:   B.Tech in Computer Science Engineering         ║
+║  EXPERTISE:   Mobile Development | Backend | IoT Solutions   ║
+║  MISSION:     Building Innovative Tech for Real-World Impact ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> **[CYBERNETIC_PROFILE]** Passionate developer specializing in cross-platform applications, cloud integration, and IoT systems. Committed to creating cutting-edge solutions that bridge the digital and physical worlds.
+
+---
+
+## 📊 **>> NEURAL NETWORK ANALYTICS_**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SatishParmar1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_radius=10" height="170"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SatishParmar1&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=10" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishParmar1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&layout=compact&border_radius=10" width="100%"/>
+
 </div>
 
 ---
 
-### 🚀 About Me & Current Activity
+## 🎯 **>> CURRENT OPERATIONS_**
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-**🔭 I’m currently working on:**
-- <a href="https://github.com/SatishParmar1">Smart Home IoT with Blockchain</a>
-- <a href="https://github.com/SatishParmar1">Search UI App using Provider</a>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**👯 I’m looking to collaborate on:**
-- <a href="https://github.com/SatishParmar1">AI + IoT Object Detection for Blind People</a>
-- <a href="https://github.com/SatishParmar1">Student-Alumni Networking Platform</a>
+### 🔧 **ACTIVE PROJECTS**
+```yaml
+- project: Smart Home IoT + Blockchain
+  status: IN_DEVELOPMENT
+  tech: [Flutter, ESP8266, Solidity]
+  
+- project: Search UI App
+  status: OPTIMIZING
+  tech: [Flutter, Provider, REST_API]
+```
 
-**📫 How to reach me:**
-- Email: **satishparmarparmar486@gmail.com**
+### 📡 **COLLABORATION TARGETS**
+```yaml
+- AI + IoT Vision System
+  purpose: Assistive Tech for Blind
+  
+- Student-Alumni Network
+  purpose: Educational Platform
+```
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td width="50%" valign="top">
 
-**🌱 I'm currently learning:**
-- Flutter Advanced Techniques
-- Firebase Analytics
-- Spring Boot
-- Blockchain Integration
+### 🧠 **LEARNING MODULES**
+```yaml
+[████████░░] Flutter Advanced    80%
+[███████░░░] Firebase Analytics  70%
+[██████░░░░] Spring Boot         60%
+[█████░░░░░] Blockchain Tech     50%
+```
 
-**💬 Ask me about:**
-- Flutter & Dart
-- Firebase & Firestore
-- IoT & ESP8266
-- REST API Development
-- General App Architecture
+### 💬 **KNOWLEDGE BASE**
+```
+> Flutter & Dart Architecture
+> Firebase & Cloud Integration
+> IoT & ESP8266 Programming
+> REST API Development
+> Mobile App Optimization
+```
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ **>> TECHNOLOGY ARSENAL_**
 
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Frameworks & Platforms:</strong><br>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</p>
+### **⚙️ CORE LANGUAGES**
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
 
-<p align="center">
-  <strong>Databases & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+### **🚀 FRAMEWORKS & PLATFORMS**
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=000000)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
+![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
+
+### **💾 DATABASES & DEVTOOLS**
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![SQLite](https://img.shields.io/badge/SQLITE-07405e?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+
+</div>
 
 ---
 
-### 📱 Featured Projects
+## 🎮 **>> PROJECT ARCHIVES_**
 
--   📰 **Trend Wave App** – A Flutter-based news app with Open News API and search functionality.
--   💊 **Shree Sai Chemist App** – Medicine ordering app with Firestore and prescription uploads. **[Live Demo](https://bit.ly/shreesaichemist)**
--   👁️‍🗨️ **Object Detection for Blind Person** – IoT + Flutter project using ESP8266, Ultrasonic Sensor, and Google TTS.
--   🎓 **Education Platform App** – A secure platform for teachers to create tests and students to prepare for placements.
--   🌦️ **Weather Forecasting App** – Built in Flutter, uses OpenWeather API and Firebase Authentication for real-time weather data.
+<div align="center">
+
+| **PROJECT** | **DESCRIPTION** | **TECH STACK** | **STATUS** |
+|-------------|-----------------|----------------|------------|
+| 📰 **Trend Wave** | News aggregation app with advanced search | Flutter, Open News API | `DEPLOYED` |
+| 💊 **Shree Sai Chemist** | Medicine ordering with Firestore | Flutter, Firebase, Storage | [`LIVE`](https://bit.ly/shreesaichemist) |
+| 👁️ **Vision Assist** | IoT-based object detection for blind | ESP8266, Flutter, Google TTS | `ACTIVE` |
+| 🎓 **EduPlatform** | Secure test creation & placement prep | Flutter, Firebase Auth | `BETA` |
+| 🌦️ **Weather App** | Real-time weather forecasting | Flutter, OpenWeather API | `COMPLETE` |
+
+</div>
+
+---
+
+## 📈 **>> CONTRIBUTION MATRIX_**
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=SatishParmar1&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_radius=10" alt="Top Contributed Repos"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishParmar1&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&radius=10" width="100%"/>
+
+</div>
+
+---
+
+## 💀 **>> TERMINAL OUTPUT_**
+
+<div align="center">
+
+```
+┌──(satish㉿cyberspace)-[~/projects]
+└─$ cat daily_quote.txt
+
+"Yesterday is history, tomorrow is a mystery, 
+and today is a gift — that's why it is called the present."
+                                        — Master Oogway
+
+┌──(satish㉿cyberspace)-[~/projects]
+└─$ ./compile_dreams.sh
+[████████████████████████████████] 100%
+✓ Dreams compiled successfully
+✓ Code is poetry
+✓ Ready to change the world
+```
+
+</div>
+
+---
+
+## ☕ **>> SUPPORT SYSTEM_**
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000)](https://www.buymeacoffee.com/invite/SatishParmar1)
+
+```
+> Fuel my coding sessions with caffeine ⚡
+> Support open-source development 🚀
+> Help build the future together 💚
+```
+
+</div>
 
 ---
 
 <div align="center">
-  
-### ✨ Support My Work
-<a href="https://www.buymeacoffee.com/invite/SatishParmar1" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-### ✍️ Quote of the Day
-*“Yesterday is history, tomorrow is a mystery, and today is a gift — that’s why it is called the present.”*
-<br>— Master Oogway, Kung Fu Panda
+```
+╔════════════════════════════════════════════════════════╗
+║  [VISITOR_COUNT] >> System Accessed By:               ║
+╚════════════════════════════════════════════════════════╝
+```
 
----
+[![Visitors](https://visitcount.itsvg.in/api?id=SatishParmar1&label=SYSTEM%20ACCESS&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=SatishParmar1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+```
+>> END OF FILE_
+>> STAY CONNECTED :: KEEP CODING :: NEVER STOP LEARNING_
+```
 
----
-
-<a href="https://visitcount.itsvg.in/api?id=SatishParmar1&icon=0&color=0" target="_blank">
-  <img src="https://visitcount.itsvg.in/api?id=SatishParmar1&icon=0&color=0" alt="Visitor Count"/>
-</a>
+**[LAST_UPDATED: 2025]** • **[STATUS: ONLINE]** • **[MODE: INNOVATION]**
 
 </div>
