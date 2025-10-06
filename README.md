@@ -205,12 +205,6 @@ and today is a gift — that's why it is called the present."
 
 </div>
 
-```
-> Fuel my coding sessions with caffeine ⚡
-> Support open-source development 🚀
-> Help build the future together 💚
-```
-
 </div>
 
 ---
