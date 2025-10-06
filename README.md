@@ -227,15 +227,7 @@ and today is a gift — that's why it is called the present."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-```
-╔════════════════════════════════════════════════════════╗
-║  [VISITOR_COUNT] >> System Accessed By:               ║
-╚════════════════════════════════════════════════════════╝
-```
 
-[![Visitors](https://visitcount.itsvg.in/api?id=SatishParmar1&label=SYSTEM%20ACCESS&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-```
 >> END OF FILE_
 >> STAY CONNECTED :: KEEP CODING :: NEVER STOP LEARNING_
 ```
