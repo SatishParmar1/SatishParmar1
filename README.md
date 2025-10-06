@@ -205,14 +205,6 @@ and today is a gift — that's why it is called the present."
 
 </div>
 
----
-
-## ☕ **>> SUPPORT SYSTEM_**
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000)](https://www.buymeacoffee.com/invite/SatishParmar1)
-
 ```
 > Fuel my coding sessions with caffeine ⚡
 > Support open-source development 🚀
