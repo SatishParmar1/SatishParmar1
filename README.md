@@ -155,22 +155,6 @@
 
 ---
 
-## 🎮 **>> PROJECT ARCHIVES_**
-
-<div align="center">
-
-| **PROJECT** | **DESCRIPTION** | **TECH STACK** | **STATUS** |
-|-------------|-----------------|----------------|------------|
-| 📰 **Trend Wave** | News aggregation app with advanced search | Flutter, Open News API | `DEPLOYED` |
-| 💊 **Shree Sai Chemist** | Medicine ordering with Firestore | Flutter, Firebase, Storage | [`LIVE`](https://bit.ly/shreesaichemist) |
-| 👁️ **Vision Assist** | IoT-based object detection for blind | ESP8266, Flutter, Google TTS | `ACTIVE` |
-| 🎓 **EduPlatform** | Secure test creation & placement prep | Flutter, Firebase Auth | `BETA` |
-| 🌦️ **Weather App** | Real-time weather forecasting | Flutter, OpenWeather API | `COMPLETE` |
-
-</div>
-
----
-
 ## 📈 **>> CONTRIBUTION MATRIX_**
 
 <div align="center">
