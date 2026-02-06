@@ -329,28 +329,6 @@ graph LR
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Support My Work
-
-If you find my packages useful, consider giving them a ⭐ on GitHub and a 👍 on pub.dev!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/satishparmar)
-
-</div>
-
----
-
 ## 📊 Profile Views
 
 <div align="center">
