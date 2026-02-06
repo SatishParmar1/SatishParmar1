@@ -190,13 +190,6 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 
 <div align="center">
 
-### 📊 Package Stats
-
-| Metric | Total |
-|--------|-------|
-| **Published Packages** | 3 |
-| **Total Downloads** | 🔄 Growing |
-| **Pub Points** | 🎯 High Quality |
 | **Community Impact** | 🌟 Active |
 
 **🎉 Want to contribute?** All packages are open source and accepting contributions!
