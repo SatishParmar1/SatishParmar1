@@ -204,14 +204,28 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 
 ```mermaid
 graph LR
-    A[🎯 Current Focus] --> B[Smart Home IoT]
-    A --> C[Blockchain Integration]
-    A --> D[AI Vision Systems]
-    A --> E[Flutter Packages]
-    B --> F[ESP8266]
-    C --> G[Solidity]
-    D --> H[Assistive Tech]
-    E --> I[Open Source]
+    A[🎯 Current Focus] --> B[Flutter Development]
+    A --> C[IoT & Hardware]
+    A --> D[Blockchain]
+    A --> E[AI & Vision]
+    A --> F[Open Source]
+    
+    B --> B1[Mobile Apps]
+    B --> B2[Published Packages]
+    
+    C --> C1[ESP]
+    C --> C2[Arduino]
+    C --> C3[Raspberry Pi]
+    C --> C4[Smart Systems]
+    
+    D --> D1[Solidity]
+    D --> D2[DApps]
+    
+    E --> E1[Computer Vision]
+    E --> E2[Assistive Tech]
+    
+    F --> F1[Community Contributions]
+    F --> F2[Package Development]
 ```
 
 </div>
