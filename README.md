@@ -1,251 +1,126 @@
 <div align="center">
 
-```
-███████╗ █████╗ ████████╗██╗███████╗██╗  ██╗     ██████╗  █████╗ ██████╗ ███╗   ███╗ █████╗ ██████╗ 
-██╔════╝██╔══██╗╚══██╔══╝██║██╔════╝██║  ██║     ██╔══██╗██╔══██╗██╔══██╗████╗ ████║██╔══██╗██╔══██╗
-███████╗███████║   ██║   ██║███████╗███████║     ██████╔╝███████║██████╔╝██╔████╔██║███████║██████╔╝
-╚════██║██╔══██║   ██║   ██║╚════██║██╔══██║     ██╔═══╝ ██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██╔══██╗
-███████║██║  ██║   ██║   ██║███████║██║  ██║     ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║
-╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<!-- Header Animation -->
 
-<img src="https://readme-typing-svg.vercel.app/?font=Orbitron&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=960&height=100&lines=FLUTTER+DEVELOPER+%7C+CODE+ARCHITECT;BUILDING+THE+FUTURE+WITH+DART;SYSTEM+ONLINE+%E2%9A%A1+READY+TO+CODE;FIREBASE+%7C+IoT" alt="Cyber Typing SVG">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,161b22,58a6ff,8957e5%26height%3D250%26section%3Dheader%26text%3DSATISH%2520PARMAR%26fontSize%3D70%26fontColor%3Dffffff%26fontAlignY%3D35%26animation%3DfadeIn%26desc%3DFlutter%2520Developer%2520%257C%2520Mobile%2520Architect%2520%257C%2520Open%2520Source%2520Contributor%26descFontSize%3D20%26descAlignY%3D55%26descAlign%3D50" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBER%20SPACE%20ACTIVE&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- Typing SVG -->
+
+<a href="https://who-is-satish.vercel.app/">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.vercel.app/%3Ffont%3DJetBrains%2BMono%26weight%3D600%26size%3D30%26pause%3D1000%26color%3D58A6FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D70%26lines%3DBuilding%2BScalable%2BMobile%2BApps%3BCrafting%2BSmooth%2BUI%252FUX%2BExperiences%3BCreator%2Bof%2Bpage_navigation_transition%3BExploring%2BIoT%2B%252B%2BFlutter" alt="Typing SVG" />
+</a>
 
 </div>
 
-```diff
-@@ SYSTEM STATUS @@
-+ [✓] Neural Network: ACTIVE
-+ [✓] Code Compilation: OPTIMAL  
-+ [✓] Firebase Connection: ESTABLISHED
-+ [✓] Innovation Engine: RUNNING AT 100%
-```
-
----
-
-## 🌐 **>> CONNECT WITH ME_**
+<div align="center">👨‍💻 About Me</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/satish-parmar-8021a5245/)
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/978satish)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:satishparmarparmar486@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=000000)](https://who-is-satish.vercel.app/)
+"I transform complex requirements into seamless, pixel-perfect mobile experiences. With a focus on Clean Architecture, State Management, and Package Development, I build apps that are as maintainable as they are beautiful."
 
 </div>
 
----
-
-## ⚡ **>> SYSTEM OVERVIEW_**
+<div align="center">🚀 Open Source Packages</div>
 
 <div align="center">
+I actively contribute to the Flutter ecosystem. Check out my latest packages on Pub.dev:
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  DESIGNATION: Flutter Developer & Java Specialist            ║
-║  EDUCATION:   B.Tech in Computer Science Engineering         ║
-║  EXPERTISE:   Mobile Development | Backend | IoT Solutions   ║
-║  MISSION:     Building Innovative Tech for Real-World Impact ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+Package Name
+
+Version
+
+Description
+
+Link
+
+Page Navigation Transition
+
+v1.1.0
+
+Custom transition effects for smooth navigation.
+
+
+
+Photo Opener View
+
+v1.1.0
+
+An elegant image viewer with zoom & pan gestures.
+
+
+
+Smart Review Prompter
+
+v0.0.2
+
+Intelligent in-app review requests for better engagement.
+
+
 
 </div>
 
-> **[CYBERNETIC_PROFILE]** Passionate developer specializing in cross-platform applications, cloud integration, and IoT systems. Committed to creating cutting-edge solutions that bridge the digital and physical worlds.
-
----
-
-## 📦 **>> PUBLISHED PACKAGES_**
+<div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
 
-### **Flutter Packages on pub.dev**
+<!-- Core -->
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" />
+
+<!-- Backend & Tools -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+<div align="center">📊 GitHub Analytics</div>
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-#### 🔄 **Page Navigation Transition**
-[![pub package](https://img.shields.io/badge/pub-v1.1.0-00FF41?style=for-the-badge&logo=dart&labelColor=000000)](https://pub.dev/packages/page_navigation_transition)
-
-Smooth and customizable page transitions for Flutter apps
-
+<td width="50%">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSatishParmar1%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26icon_color%3D58A6FF%26text_color%3Dc9d1d9" width="100%"/>
 </td>
-<td align="center" width="33%">
-
-#### 🖼️ **Photo Opener View**
-[![pub package](https://img.shields.io/badge/pub-v1.1.0-00FF41?style=for-the-badge&logo=dart&labelColor=000000)](https://pub.dev/packages/photo_opener_view)
-
-Interactive photo viewer with zoom and pan capabilities
-
-</td>
-<td align="center" width="33%">
-
-#### ⭐ **Smart Review Prompter**
-[![pub package](https://img.shields.io/badge/pub-v0.0.2-00FF41?style=for-the-badge&logo=dart&labelColor=000000)](https://pub.dev/packages/smart_review_prompter)
-
-Intelligent in-app review prompting system
-
+<td width="50%">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSatishParmar1%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26text_color%3Dc9d1d9%26layout%3Dcompact" width="100%"/>
 </td>
 </tr>
 </table>
 
-```yaml
-total_packages: 3
-total_downloads: [SYNCING...]
-status: MAINTAINED & UPDATED
-contribution: OPEN_SOURCE
-```
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSatishParmar1%26bg_color%3D0d1117%26color%3D58a6ff%26line%3D8957e5%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%"/>
 
 </div>
 
----
-
-## 📊 **>> NEURAL NETWORK ANALYTICS_**
+<div align="center">📫 Connect With Me</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatishParmar1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_radius=10" height="170"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=SatishParmar1&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=10" height="170"/>
+<a href="https://who-is-satish.vercel.app/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-Visit%2520Site-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite%26color%3D000000"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishParmar1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&layout=compact&border_radius=10" width="100%"/>
+<a href="https://www.linkedin.com/in/satish-parmar-8021a5245/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/>
+</a>
+
+<a href="mailto:satishparmarparmar486@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-Email%2520Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/>
+</a>
+
+<a href="https://twitter.com/978satish">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-Follow-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite"/>
+</a>
 
 </div>
 
----
-
-## 🎯 **>> CURRENT OPERATIONS_**
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 **ACTIVE PROJECTS**
-```yaml
-- project: Smart Home IoT + Blockchain
-  status: IN_DEVELOPMENT
-  tech: [Flutter, ESP8266, Solidity]
-  
-- project: Search UI App
-  status: OPTIMIZING
-  tech: [Flutter, Provider, REST_API]
-```
-
-### 📡 **COLLABORATION TARGETS**
-```yaml
-- AI + IoT Vision System
-  purpose: Assistive Tech for Blind
-  
-- Student-Alumni Network
-  purpose: Educational Platform
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 **LEARNING MODULES**
-```yaml
-[████████░░] Flutter Advanced    80%
-[███████░░░] Firebase Analytics  70%
-[██████░░░░] Spring Boot         60%
-[█████░░░░░] Blockchain Tech     50%
-```
-
-### 💬 **KNOWLEDGE BASE**
-```
-> Flutter & Dart Architecture
-> Firebase & Cloud Integration
-> IoT & ESP8266 Programming
-> REST API Development
-> Mobile App Optimization
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ **>> TECHNOLOGY ARSENAL_**
-
 <div align="center">
-
-### **⚙️ CORE LANGUAGES**
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-
-### **🚀 FRAMEWORKS & PLATFORMS**
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=000000)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)
-![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
-![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
-
-### **💾 DATABASES & DEVTOOLS**
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![SQLite](https://img.shields.io/badge/SQLITE-07405e?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-
-</div>
-
----
-
-## 📈 **>> CONTRIBUTION MATRIX_**
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SatishParmar1&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_radius=10" alt="Top Contributed Repos"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishParmar1&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&radius=10" width="100%"/>
-
-</div>
-
----
-
-## 💀 **>> TERMINAL OUTPUT_**
-
-<div align="center">
-
-```
-┌──(satish㉿cyberspace)-[~/projects]
-└─$ cat daily_quote.txt
-
-"Yesterday is history, tomorrow is a mystery, 
-and today is a gift — that's why it is called the present."
-                                        — Master Oogway
-
-┌──(satish㉿cyberspace)-[~/projects]
-└─$ ./compile_dreams.sh
-[████████████████████████████████] 100%
-✓ Dreams compiled successfully
-✓ Code is poetry
-✓ Ready to change the world
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-```
->> END OF FILE_
->> STAY CONNECTED :: KEEP CODING :: NEVER STOP LEARNING_
-```
-
-**[LAST_UPDATED: 2025]** • **[STATUS: ONLINE]** • **[MODE: INNOVATION]**
-
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D8957e5,58a6ff,161b22,0d1117%26height%3D100%26section%3Dfooter" width="100%"/>
 </div>
