@@ -295,16 +295,6 @@ graph LR
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SatishParmar1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
