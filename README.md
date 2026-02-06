@@ -297,24 +297,9 @@ graph LR
 |-----------|-------------|---------------|
 | Flutter & Dart | ███████████ 90% | Advanced State Management |
 | Firebase | ████████░░░ 75% | Cloud Functions & Analytics |
-| Blockchain | ████░░░░░░░ 40% | Smart Contracts & DApps |
+| Blockchain | █████░░░░░░ 40% | Smart Contracts & DApps |
 | AI/ML | █████░░░░░░ 40% | TensorFlow & Computer Vision |
 | IoT | ████████░░░ 70% | ESP8266 & Arduino Integration |
-
-</div>
-
----
-
-## 💡 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/SatishParmar1/page_navigation_transition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatishParmar1&repo=page_navigation_transition&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="https://github.com/SatishParmar1/photo_opener_view">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatishParmar1&repo=photo_opener_view&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
 
 </div>
 
