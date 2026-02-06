@@ -345,8 +345,6 @@ graph LR
 
 ### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Made with ❤️ by Satish Parmar**
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202025-6C63FF?style=for-the-badge)
+**Satish Parmar**
 
 </div>
