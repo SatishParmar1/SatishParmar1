@@ -32,7 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/satish-parmar-8021a5245/)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/978satish)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:satishparmarparmar486@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=000000)](https://satishparmar1.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=githubpages&logoColor=000000&labelColor=000000)](https://who-is-satish.vercel.app/)
 
 </div>
 
@@ -54,6 +54,52 @@
 </div>
 
 > **[CYBERNETIC_PROFILE]** Passionate developer specializing in cross-platform applications, cloud integration, and IoT systems. Committed to creating cutting-edge solutions that bridge the digital and physical worlds.
+
+---
+
+## 📦 **>> PUBLISHED PACKAGES_**
+
+<div align="center">
+
+### **Flutter Packages on pub.dev**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🔄 **Page Navigation Transition**
+[![pub package](https://img.shields.io/badge/pub-v1.1.0-00FF41?style=for-the-badge&logo=dart&labelColor=000000)](https://pub.dev/packages/page_navigation_transition)
+
+Smooth and customizable page transitions for Flutter apps
+
+</td>
+<td align="center" width="33%">
+
+#### 🖼️ **Photo Opener View**
+[![pub package](https://img.shields.io/badge/pub-v1.1.0-00FF41?style=for-the-badge&logo=dart&labelColor=000000)](https://pub.dev/packages/photo_opener_view)
+
+Interactive photo viewer with zoom and pan capabilities
+
+</td>
+<td align="center" width="33%">
+
+#### ⭐ **Smart Review Prompter**
+[![pub package](https://img.shields.io/badge/pub-v0.0.2-00FF41?style=for-the-badge&logo=dart&labelColor=000000)](https://pub.dev/packages/smart_review_prompter)
+
+Intelligent in-app review prompting system
+
+</td>
+</tr>
+</table>
+
+```yaml
+total_packages: 3
+total_downloads: [SYNCING...]
+status: MAINTAINED & UPDATED
+contribution: OPEN_SOURCE
+```
+
+</div>
 
 ---
 
@@ -189,15 +235,13 @@ and today is a gift — that's why it is called the present."
 
 </div>
 
-</div>
-
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-
+```
 >> END OF FILE_
 >> STAY CONNECTED :: KEEP CODING :: NEVER STOP LEARNING_
 ```
