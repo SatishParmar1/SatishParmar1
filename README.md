@@ -64,7 +64,6 @@ I believe in giving back to the community. Here are my published packages availa
 
 [![pub package](https://img.shields.io/pub/v/page_navigation_transition.svg?label=pub&color=blue)](https://pub.dev/packages/page_navigation_transition)
 [![likes](https://img.shields.io/pub/likes/page_navigation_transition?logo=flutter)](https://pub.dev/packages/page_navigation_transition/score)
-[![popularity](https://img.shields.io/pub/popularity/page_navigation_transition?logo=flutter)](https://pub.dev/packages/page_navigation_transition/score)
 
 **Version:** 1.1.0
 
@@ -100,7 +99,6 @@ PageNavigationTransition(
 
 [![pub package](https://img.shields.io/pub/v/photo_opener_view.svg?label=pub&color=blue)](https://pub.dev/packages/photo_opener_view)
 [![likes](https://img.shields.io/pub/likes/photo_opener_view?logo=flutter)](https://pub.dev/packages/photo_opener_view/score)
-[![popularity](https://img.shields.io/pub/popularity/photo_opener_view?logo=flutter)](https://pub.dev/packages/photo_opener_view/score)
 
 **Version:** 1.1.0
 
@@ -140,7 +138,6 @@ PhotoOpenerView(
 
 [![pub package](https://img.shields.io/pub/v/smart_review_prompter.svg?label=pub&color=blue)](https://pub.dev/packages/smart_review_prompter)
 [![likes](https://img.shields.io/pub/likes/smart_review_prompter?logo=flutter)](https://pub.dev/packages/smart_review_prompter/score)
-[![popularity](https://img.shields.io/pub/popularity/smart_review_prompter?logo=flutter)](https://pub.dev/packages/smart_review_prompter/score)
 
 **Version:** 0.0.2
 
