@@ -12,25 +12,63 @@
 
 ---
 
+
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const satish = {
-    role: "Flutter Developer & Java Specialist",
-    education: "B.Tech in Computer Science Engineering",
-    location: "India 🇮🇳",
-    passions: ["Mobile Development", "IoT", "Blockchain", "AI"],
-    currentFocus: "Building cross-platform solutions",
-    lifePhilosophy: "Code is poetry, bugs are typos",
-    funFact: "I debug with console.log more than I admit 😄"
-};
+class SatishParmar extends Developer {
+    constructor() {
+        this.name = "Satish Parmar";
+        this.role = "Flutter Developer & Java Specialist";
+        this.education = "B.Tech in Computer Science Engineering";
+        this.location = "Jaipur, India 🇮🇳";
+        this.company = "Open Source Contributor";
+    }
+    
+    getCurrentWorkspace() {
+        return {
+            mainStack: ["Flutter", "Dart", "Firebase", "Java"],
+            exploring: ["Blockchain", "AI/ML", "IoT", "Web3"],
+            published: ["3 Flutter Packages on pub.dev"],
+            currentProjects: [
+                "Smart Home IoT + Blockchain Integration",
+                "AI Vision Assistive Technology",
+                "Open Source Package Development"
+            ]
+        };
+    }
+    
+    getDailyRoutine() {
+        return {
+            morning: "☕ Coffee + Code Review",
+            afternoon: "💻 Building & Debugging",
+            evening: "📚 Learning New Tech",
+            night: "🌙 Open Source Contributions",
+            weekends: "🚀 Side Projects & Experiments"
+        };
+    }
+    
+    getLifeMotto() {
+        return "Code is poetry, bugs are just unexpected features 🐛✨";
+    }
+    
+    getFunFacts() {
+        return [
+            "🎯 Published 3 Flutter packages with 1000+ downloads",
+            "⚡ Can debug faster with print() than any debugger",
+            "🔥 Turned coffee into code since 2020",
+            "🎮 Built my first game at age 16",
+            "🤝 Helped 100+ developers through Stack Overflow"
+        ];
+    }
+}
+
+const me = new SatishParmar();
+console.log(me.getLifeMotto());
+// Output: "Code is poetry, bugs are just unexpected features 🐛✨"
 ```
-
-I'm a passionate developer who loves creating innovative solutions that make a real-world impact. From mobile apps to IoT systems, I enjoy exploring the intersection of hardware and software. Currently focused on building open-source Flutter packages and contributing to the developer community.
-
----
 
 ## 🔗 Connect With Me
 
