@@ -230,20 +230,6 @@ graph LR
 
 </div>
 
-### 🚀 Active Projects
-
-- **🏠 Smart Home IoT + Blockchain** - Building a decentralized smart home control system
-  - Tech: Flutter, ESP8266, Solidity, Firebase
-  - Status: 🔨 In Development
-  
-- **🔍 Search UI Application** - Modern search interface with advanced filtering
-  - Tech: Flutter, Provider, REST API
-  - Status: ⚡ Optimizing
-
-- **👁️ AI Vision Assistant** - Assistive technology for visually impaired users
-  - Tech: Flutter, TensorFlow, IoT
-  - Status: 🧪 Research Phase
-
 ### 🤝 Open to Collaborate On
 
 - AI-powered mobile applications
