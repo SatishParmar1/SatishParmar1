@@ -13,7 +13,7 @@
 
 # 🕵️ THE CASE OF THE DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=1000&color=B22222&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Subject%3A+SATISH+PARMAR;Occupation%3A+Flutter+Developer;Last+seen%3A+Jaipur%2C+India;Status%3A+Still+at+large" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=1000&color=B22222&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Subject%3A+SATISH+PARMAR;Occupation%3A+Flutter+Developer;Last+seen%3A+India;Status%3A+Still+at+large" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B0E,100:5C4322&height=170&section=header&text=CONFIDENTIAL&fontSize=48&fontColor=B22222&animation=fadeIn&fontAlignY=38&desc=Property%20of%20the%20Open%20Source%20Records%20Division&descAlignY=60&descAlign=50&descColor=D9C89E" width="100%"/>
 
