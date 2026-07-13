@@ -30,7 +30,7 @@
 │  OCCUPATION ......... Flutter Developer & Java         │
 │                        Specialist                     │
 │  EDUCATION .......... B.Tech, Computer Science         │
-│  LAST KNOWN LOCATION  Jaipur, Rajasthan, IN 🇮🇳         │
+│  LAST KNOWN LOCATION  INDIA 🇮🇳         │
 │  AFFILIATION ........ Open Source Contributor          │
 │  ACTIVE SINCE ....... 2020                             │
 │  KNOWN M.O. ......... Turns coffee into code,           │
