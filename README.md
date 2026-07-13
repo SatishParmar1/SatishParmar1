@@ -1,101 +1,70 @@
 <div align="center">
 
 ```
-███╗   ███╗██╗███╗   ██╗██████╗  ██████╗ ███████╗
-████╗ ████║██║████╗  ██║██╔══██╗██╔═══██╗██╔════╝
-██╔████╔██║██║██╔██╗ ██║██║  ██║██║   ██║███████╗
-██║╚██╔╝██║██║██║╚██╗██║██║  ██║██║   ██║╚════██║
-██║ ╚═╝ ██║██║██║ ╚████║██████╔╝╚██████╔╝███████║
-╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚══════╝
+┌─────────────────────────────────────────────────┐
+│                                                   │
+│   C A S E   F I L E   № 2020-FLTR                │
+│                                                   │
+│   STATUS:  ▓▓▓▓▓▓▓▓▓▓  ACTIVE / ONGOING          │
+│   CLASSIFICATION:  UNCLASSIFIED — OPEN SOURCE    │
+│                                                   │
+└─────────────────────────────────────────────────┘
 ```
 
-### `>_` BOOTING DEVELOPER: **SATISH_PARMAR.exe**
+# 🕵️ THE CASE OF THE DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Compiling+dreams+into+Dart...;Mounting+%2Fdev%2Fcreativity...;Establishing+Flutter+uplink...;Loading+3+published+packages...;System+ready.+Welcome%2C+user." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=2800&pause=1000&color=B22222&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Subject%3A+SATISH+PARMAR;Occupation%3A+Flutter+Developer;Last+seen%3A+Jaipur%2C+India;Status%3A+Still+at+large" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3B1B&height=180&section=header&text=MindOS%20v2.5.0&fontSize=45&fontColor=39FF14&animation=fadeIn&fontAlignY=40&desc=Kernel%3A%20Flutter%20%7C%20Shell%3A%20Dart%20%7C%20Uptime%3A%20Since%202020&descAlignY=62&descAlign=50&descColor=8CFF8C" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B0E,100:5C4322&height=170&section=header&text=CONFIDENTIAL&fontSize=48&fontColor=B22222&animation=fadeIn&fontAlignY=38&desc=Property%20of%20the%20Open%20Source%20Records%20Division&descAlignY=60&descAlign=50&descColor=D9C89E" width="100%"/>
 
 </div>
 
 ---
 
-## 📟 `boot.log` — startup sequence
+## 📁 SUBJECT PROFILE
 
-```bash
-[   0.0001 ] MindOS v2.5.0 initializing...
-[   0.0042 ] CPU: Flutter Developer Core  @ Jaipur, India 🇮🇳
-[   0.0089 ] Verifying credentials......................... OK
-[   0.0120 ] Loading education module...................... B.Tech CSE ✔
-[   0.0450 ] Mounting /dev/flutter........................ OK
-[   0.0512 ] Mounting /dev/dart........................... OK
-[   0.0678 ] Mounting /dev/firebase....................... OK
-[   0.0910 ] Mounting /dev/java........................... OK
-[   0.1200 ] Detecting side-quests........................ IoT, Blockchain, AI/ML
-[   0.3300 ] Starting service: coffee-daemon............... [ACTIVE]
-[   0.5600 ] Starting service: bug-hunter.service........... [ACTIVE]
-[   0.8100 ] Loading 3 packages from pub.dev............... OK
-[   1.0000 ] Checking for known issues..................... none critical, only "features" 🐛
-[   1.2000 ] System ready.
-[   1.2001 ] Welcome back, Satish. Terminal unlocked.
 ```
+┌──────────────────────────────────────────────────────┐
+│  NAME .............. Satish Parmar                    │
+│  ALIAS .............. github.com/SatishParmar1        │
+│  OCCUPATION ......... Flutter Developer & Java         │
+│                        Specialist                     │
+│  EDUCATION .......... B.Tech, Computer Science         │
+│  LAST KNOWN LOCATION  Jaipur, Rajasthan, IN 🇮🇳         │
+│  AFFILIATION ........ Open Source Contributor          │
+│  ACTIVE SINCE ....... 2020                             │
+│  KNOWN M.O. ......... Turns coffee into code,           │
+│                        leaves bugs disguised as        │
+│                        "unexpected features"           │
+└──────────────────────────────────────────────────────┘
+```
+
+**Signature statement, recovered from subject's terminal history:**
+> *"Code is poetry, bugs are just unexpected features."*
 
 ---
 
-## 🖥️ `neofetch` — whoami
+## 🔍 CASE NOTES — FIELD OBSERVATIONS
 
-```
-       .-/+oossssoo+/-.               satish@mindos
-   `:+ssssssssssssssssss+:`           -------------
- -+ssssssssssssssssssyyssss+-         OS: MindOS v2.5.0 (Flutter Edition)
-.ossssssssssssssssssdMMMNysssso.      Host: Jaipur, Rajasthan, IN 🇮🇳
-/ssssssssssshdmmNNmmyNMMMMhssssss/    Kernel: Dart 3.x / Java
-+ssssssssshmydMMMMMMMNddddyssssssss+  Shell: Flutter & Firebase
-/sssssssshNMMMyhhyyyyhmNMMMNhssssss/  Role: Flutter Developer & Java Specialist
-.ssssssssdMMMNhsssssssssshNMMMdssss.  Education: B.Tech, Computer Science Engineering
-+sssshhhyNMMNyssssssssssssyNMMMysss+  Company: Open Source Contributor
-ossyNMMMNyMMhsssssssssssssshmmmhssso  Packages: 3 published on pub.dev (1000+ downloads)
-ossyNMMMNyMMhsssssssssssssshmmmhssso  Theme: "Code is poetry, bugs are unexpected features" 🐛✨
-+sssshhhyNMMNyssssssssssssyNMMMysss+
-.ssssssssdMMMNhsssssssssshNMMMdssss.
-/sssssssshNMMMyhhyyyyhdNMMMNhssssss/
-+sssssssssdmydMMMMMMMMddddyssssssss+
-/ssssssssssshdmNNNNmyNMMMMhssssss/
-.ossssssssssssssssssdMMMNysssso.
- -+sssssssssssssssssyyyssss+-
-   `:+ssssssssssssssssss+:`
-       `.-/+oossssoo+/-.
-```
+Investigators tracking the subject have logged the following recurring behavior:
+
+| Time | Observed Activity |
+|---|---|
+| 06:00 | ☕ Enters premises with coffee, reviews prior night's code |
+| 10:00 | 💻 Engages in prolonged build-and-debug activity |
+| 17:00 | 📚 Studies unfamiliar technology, motive unclear |
+| 21:00 | 🌙 Slips commits into open-source repositories under cover of night |
+| Weekends | 🚀 Conducts unsanctioned "side project" experiments |
+
+**Additional notes:** Subject claims to debug faster with `print()` than with any conventional debugger. Has allegedly assisted 100+ other developers on Stack Overflow — motive: unclear, possibly altruistic.
 
 ---
 
-## 🧩 `lsmod` — kernel modules loaded
-
-```
-Module              Size      State      Description
---------------------------------------------------------------
-mod_flutter         active    [OK]       Mobile app engine, primary driver
-mod_dart            active    [OK]       Core language runtime
-mod_firebase        active    [OK]       Backend-as-a-service layer
-mod_iot             loading   [~40%]     Smart Home + Blockchain integration
-mod_ai_vision       loading   [~40%]     Assistive tech, computer vision
-mod_opensource      active    [OK]       Package development & maintenance
-```
-
-**Currently compiling:**
-- 🏠 Smart Home IoT + Blockchain Integration
-- 👁️ AI Vision Assistive Technology
-- 📦 Open Source Package Development
-
-**Accepting incoming connections for:**
-`AI-powered mobile apps` · `IoT integration projects` · `Educational tech platforms` · `Open source Flutter packages` · `Student-Alumni networking systems`
-
----
-
-## 📦 `pub list --installed` — published packages
+## 🗂️ CLOSED CASES — RESOLVED (published packages)
 
 <div align="center">
 
-### Contributing to the Flutter Ecosystem — 3 packages shipped, all open source
+*Three cases closed. Evidence available to the public on pub.dev.*
 
 </div>
 
@@ -103,20 +72,18 @@ mod_opensource      active    [OK]       Package development & maintenance
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 page_navigation_transition
+### 📂 CASE #001 — `page_navigation_transition`
 
-[![pub package](https://img.shields.io/pub/v/page_navigation_transition.svg?label=pub&color=39FF14)](https://pub.dev/packages/page_navigation_transition)
+[![pub package](https://img.shields.io/pub/v/page_navigation_transition.svg?label=pub&color=B22222)](https://pub.dev/packages/page_navigation_transition)
 [![likes](https://img.shields.io/pub/likes/page_navigation_transition?logo=flutter)](https://pub.dev/packages/page_navigation_transition/score)
 
-`v1.1.0` — smooth, customizable page transition animations for Flutter apps.
+**Verdict:** `v1.1.0` — resolved. Delivers smooth, customizable page transitions for Flutter apps.
 
-```
-$ pub install page_navigation_transition
-Fetching...
-✔ slide  ✔ fade  ✔ scale  ✔ rotate
-✔ Navigator 2.0 compatible
-✔ Minimal boilerplate
-```
+**Evidence catalogued:**
+- 🎨 Multiple transition styles: slide, fade, scale, rotate
+- ⚡ Highly customizable animations
+- 📱 Confirmed Navigator 2.0 compatible
+- 🔧 Minimal boilerplate on record
 
 ```dart
 PageNavigationTransition(
@@ -126,25 +93,23 @@ PageNavigationTransition(
 )
 ```
 
-[📚 Docs](https://pub.dev/packages/page_navigation_transition) | [⭐ GitHub](https://github.com/SatishParmar1)
+[📄 Case File](https://pub.dev/packages/page_navigation_transition) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ photo_opener_view
+### 📂 CASE #002 — `photo_opener_view`
 
-[![pub package](https://img.shields.io/pub/v/photo_opener_view.svg?label=pub&color=39FF14)](https://pub.dev/packages/photo_opener_view)
+[![pub package](https://img.shields.io/pub/v/photo_opener_view.svg?label=pub&color=B22222)](https://pub.dev/packages/photo_opener_view)
 [![likes](https://img.shields.io/pub/likes/photo_opener_view?logo=flutter)](https://pub.dev/packages/photo_opener_view/score)
 
-`v1.1.0` — interactive photo viewer with zoom, pan & gesture support.
+**Verdict:** `v1.1.0` — resolved. Interactive photo viewer, zoom/pan/gesture confirmed functional.
 
-```
-$ pub install photo_opener_view
-Fetching...
-✔ pinch-to-zoom  ✔ pan/swipe  ✔ hero animation
-✔ Custom UI overlay  ✔ Memory-efficient loading
-✔ Dark/Light mode
-```
+**Evidence catalogued:**
+- 🔍 Pinch-to-zoom capability
+- 👆 Smooth pan and swipe gestures
+- 🎭 Hero animation support
+- 🌙 Dark/Light mode compliance
 
 ```dart
 PhotoOpenerView(
@@ -154,27 +119,27 @@ PhotoOpenerView(
 )
 ```
 
-[📚 Docs](https://pub.dev/packages/photo_opener_view) | [⭐ GitHub](https://github.com/SatishParmar1)
+[📄 Case File](https://pub.dev/packages/photo_opener_view) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### ⭐ smart_review_prompter
+### 📂 CASE #003 — `smart_review_prompter`
 
-[![pub package](https://img.shields.io/pub/v/smart_review_prompter.svg?label=pub&color=39FF14)](https://pub.dev/packages/smart_review_prompter)
+[![pub package](https://img.shields.io/pub/v/smart_review_prompter.svg?label=pub&color=B22222)](https://pub.dev/packages/smart_review_prompter)
 [![likes](https://img.shields.io/pub/likes/smart_review_prompter?logo=flutter)](https://pub.dev/packages/smart_review_prompter/score)
 
-`v0.0.2` — an intelligent in-app review prompting system that knows the perfect moment to ask for ratings.
+**Verdict:** `v0.0.2` — resolved. An intelligent system that knows exactly when to ask a user for a review — and, notably, when *not* to.
 
-**Trigger conditions (`if` chain):**
+**Conditions required before the subject acts (all must hold):**
 ```
-✓ user.launchCount >= minLaunchCount
-✓ user.successfulActions >= minSuccessfulActions
-✓ daysSinceInstall >= minDaysSinceInstall
-✓ daysSinceLastPrompt >= remindDays
-✓ user.neverAskAgain == false
+✓ user.launchCount        ≥ minLaunchCount
+✓ user.successfulActions  ≥ minSuccessfulActions
+✓ daysSinceInstall        ≥ minDaysSinceInstall
+✓ daysSinceLastPrompt     ≥ remindDays
+✓ user.neverAskAgain      == false
 ```
 
 ```dart
@@ -189,7 +154,7 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 }
 ```
 
-[📚 Docs](https://pub.dev/packages/smart_review_prompter) | [⭐ GitHub](https://github.com/SatishParmar1)
+[📄 Case File](https://pub.dev/packages/smart_review_prompter) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
 </tr>
@@ -197,19 +162,17 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 
 <div align="center">
 
-**Community Impact:** 🟢 `Active` · **Contributions:** open — PRs welcome on all three repos
+**Case Status:** 🟢 `All three closed and public` — new tips (contributions) welcome on every case.
 
 </div>
 
 ---
 
-## 🌳 `ps aux --forest` — process tree
-
-<div align="center">
+## 🕸️ ONGOING INVESTIGATIONS
 
 ```mermaid
 graph LR
-    A[MindOS Core] --> B[Flutter Development]
+    A[Open Case File] --> B[Flutter Development]
     A --> C[IoT & Hardware]
     A --> D[Blockchain]
     A --> E[AI & Vision]
@@ -233,32 +196,37 @@ graph LR
     F --> F2[Package Development]
 ```
 
-</div>
+**Active leads the subject is currently pursuing:**
+- 🏠 Smart Home IoT + Blockchain Integration
+- 👁️ AI Vision Assistive Technology
+- 📦 Open Source Package Development
+
+**Open to joint investigations on:** AI-powered mobile applications · IoT integration projects · Educational tech platforms · Open source Flutter packages · Student-Alumni networking systems
 
 ---
 
-## ⚙️ `lscpu` / hardware specs
+## 🧰 EQUIPMENT INVENTORY
 
 <div align="center">
 
-**CORE (Languages)**
+**Primary weapons (Languages)**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**GPU (Frameworks)**
+**Field gear (Frameworks & Libraries)**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**STORAGE (Backend & DB)**
+**Storage lockers (Backend & Database)**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**PERIPHERALS (Tools & Platforms)**
+**Surveillance tools (Tools & Platforms)**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -267,7 +235,7 @@ graph LR
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**EXPANSION CARDS (IoT & Hardware)**
+**Recovered hardware (IoT)**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -276,7 +244,7 @@ graph LR
 
 ---
 
-## 📊 `top` — live system monitor
+## 📈 SURVEILLANCE LOG — activity tracked over time
 
 <div align="center">
 
@@ -286,11 +254,11 @@ graph LR
 
 ---
 
-## 💾 `free -h` — memory allocation by skill
+## 🔬 FORENSIC ANALYSIS — proficiency levels
 
 <div align="center">
 
-| Module | Allocation | Currently Buffering |
+| Skill Under Examination | Confidence Level | Currently Investigating |
 |---|---|---|
 | Flutter & Dart | `███████████` 90% | Advanced State Management |
 | Firebase | `████████░░░` 75% | Cloud Functions & Analytics |
@@ -302,19 +270,7 @@ graph LR
 
 ---
 
-## 🕒 `crontab -l` — daily scheduled tasks
-
-```cron
-06:00  ☕  /usr/bin/coffee --brew && code --review
-10:00  💻  /usr/bin/build --debug --watch
-17:00  📚  /usr/bin/learn --topic=new-tech
-21:00  🌙  /usr/bin/git commit --open-source
-SAT-SUN 🚀  /usr/bin/experiment --side-projects
-```
-
----
-
-## 📰 `dmesg | grep blog` — recent writes
+## 🗞️ PRESS ARCHIVE — filed reports
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 Building Reusable Flutter Packages: A Complete Guide
@@ -326,7 +282,7 @@ SAT-SUN 🚀  /usr/bin/experiment --side-projects
 
 ---
 
-## 📋 `todo.txt` — 2025 backlog queue
+## 📌 STILL AT LARGE — objectives for 2025
 
 - [x] Publish 5+ Flutter packages on pub.dev
 - [ ] Contribute to 10+ open source projects
@@ -338,7 +294,7 @@ SAT-SUN 🚀  /usr/bin/experiment --side-projects
 
 ---
 
-## 🌐 `ifconfig` — established connections
+## ☎️ KNOWN ASSOCIATES — contact the tip line
 
 <div align="center">
 
@@ -352,11 +308,11 @@ SAT-SUN 🚀  /usr/bin/experiment --side-projects
 
 ---
 
-## ⏱️ `uptime` — session counter
+## 👁️ CASE INTEREST COUNTER
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SatishParmar1&label=Profile%20Views&color=39FF14&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SatishParmar1&label=Profile%20Views&color=B22222&style=for-the-badge)
 
 </div>
 
@@ -365,14 +321,15 @@ SAT-SUN 🚀  /usr/bin/experiment --side-projects
 <div align="center">
 
 ```
-[ SIGINT received ] — session paused, not terminated.
-$ echo $QUOTE
+┌─────────────────────────────────────────┐
+│   STAMP:  CASE ACTIVE — NOT CLOSED       │
+└─────────────────────────────────────────┘
 ```
 
 ### *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B1B,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4322,100:2B1B0E&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-**Satish Parmar** — `MindOS session active` 🟢
+**Satish Parmar** — `Investigation ongoing` 🔴
 
 </div>
