@@ -282,7 +282,7 @@ graph LR
 
 ---
 
-## 📌 STILL AT LARGE — objectives for 2025
+## 📌 STILL AT LARGE — objectives for 2026
 
 - [x] Publish 5+ Flutter packages on pub.dev
 - [ ] Contribute to 10+ open source projects
