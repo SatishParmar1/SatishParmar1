@@ -280,18 +280,6 @@ builder: (context, child) =>
 
 ---
 
-## 📌 STILL AT LARGE — objectives for 2026
-
-- [x] Publish 5+ Flutter packages on pub.dev
-- [ ] Contribute to 10+ open source projects
-- [ ] Write technical blogs and tutorials
-- [ ] Master advanced Flutter animations
-- [ ] Build a complete AI-powered mobile app
-- [ ] Reach 1000+ GitHub stars across repositories
-- [ ] Mentor aspiring Flutter developers
-
----
-
 ## ☎️ KNOWN ASSOCIATES — contact the tip line
 
 <div align="center">
