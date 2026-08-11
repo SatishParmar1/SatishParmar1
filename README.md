@@ -194,34 +194,6 @@ builder: (context, child) =>
 
 ---
 
-## 🕸️ ONGOING INVESTIGATIONS
-
-```mermaid
-graph LR
-    A[Open Case File] --> B[Flutter Development]
-    A --> C[IoT & Hardware]
-    A --> D[Blockchain]
-    A --> E[AI & Vision]
-    A --> F[Open Source]
-
-    B --> B1[Mobile Apps]
-    B --> B2[Published Packages]
-
-    C --> C1[ESP8266]
-    C --> C2[Arduino]
-    C --> C3[Raspberry Pi]
-    C --> C4[Smart Systems]
-
-    D --> D1[Solidity]
-    D --> D2[DApps]
-
-    E --> E1[Computer Vision]
-    E --> E2[Assistive Tech]
-
-    F --> F1[Community Contributions]
-    F --> F2[Package Development]
-```
-
 **Active leads the subject is currently pursuing:**
 - 🏠 Smart Home IoT + Blockchain Integration
 - 👁️ AI Vision Assistive Technology
