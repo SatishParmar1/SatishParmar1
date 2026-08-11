@@ -70,7 +70,7 @@ Investigators tracking the subject have logged the following recurring behavior:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 📂 CASE #001 — `page_navigation_transition`
 
@@ -96,7 +96,7 @@ PageNavigationTransition(
 [📄 Case File](https://pub.dev/packages/page_navigation_transition) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 📂 CASE #002 — `photo_opener_view`
 
@@ -124,7 +124,7 @@ PhotoOpenerView(
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 📂 CASE #003 — `smart_review_prompter`
 
@@ -157,7 +157,7 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 [📄 Case File](https://pub.dev/packages/smart_review_prompter) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 📂 CASE #004 — `api_network_logger`
 
