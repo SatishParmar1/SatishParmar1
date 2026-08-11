@@ -60,7 +60,7 @@ Investigators tracking the subject have logged the following recurring behavior:
 
 ---
 
-## 🗂️ CLOSED CASES — RESOLVED (published packages)
+## 🗂️ CLOSED CASES — RESOLVED
 
 <div align="center">
 
