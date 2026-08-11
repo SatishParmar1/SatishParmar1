@@ -124,7 +124,7 @@ PhotoOpenerView(
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 📂 CASE #003 — `smart_review_prompter`
 
@@ -157,9 +157,7 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 [📄 Case File](https://pub.dev/packages/smart_review_prompter) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 📂 CASE #004 — `api_network_logger`
 
