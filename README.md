@@ -64,7 +64,7 @@ Investigators tracking the subject have logged the following recurring behavior:
 
 <div align="center">
 
-*Three cases closed. Evidence available to the public on pub.dev.*
+*Four cases closed. Evidence available to the public on pub.dev.*
 
 </div>
 
@@ -158,11 +158,46 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📂 CASE #004 — `api_network_logger`
+
+[![pub package](https://img.shields.io/pub/v/api_network_logger.svg?label=pub&color=B22222)](https://pub.dev/packages/api_network_logger)
+[![likes](https://img.shields.io/pub/likes/api_network_logger?logo=flutter)](https://pub.dev/packages/api_network_logger/score)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+**Verdict:** `v2.0.0` — resolved. A production-ready surveillance kit for your own app: transparently captures, compresses, and stores network traffic, offline events, system telemetry, and navigation transitions in a secure on-device SQLite database — with a draggable glassmorphic console for inspecting the evidence.
+
+**Evidence catalogued:**
+- 🕸️ Concurrency-safe SQLite queue for reliable multi-call logging
+- 🔁 Non-destructive stream buffering (re-emits cloned streams, no broken pipes)
+- 🗜️ Smart zlib compression for large payloads
+- 🖼️ Binary/media content bypassed and summarized instead of dumped
+- 🔒 Pre-storage PII redaction engine (headers + nested JSON fields)
+- 🧭 Adapters for Dio, http, Bloc, Riverpod, GraphQL, WebSockets, and more
+- 🧩 Dev-only glassmorphic console overlay, tree-shaken from release builds
+
+```dart
+await ApiLogger.instance.init(
+  config: const ApiLoggerConfig(
+    showOverlay: true,
+  ),
+);
+
+// Wrap in MaterialApp.builder to mount the debug console
+builder: (context, child) => ApiLoggerOverlay(child: child!),
+```
+
+[📄 Case File](https://pub.dev/packages/api_network_logger) | [⭐ Field Report](https://github.com/SatishParmar1)
+
+</td>
+</tr>
 </table>
 
 <div align="center">
 
-**Case Status:** 🟢 `All three closed and public` — new tips (contributions) welcome on every case.
+**Case Status:** 🟢 `All four closed and public` — new tips (contributions) welcome on every case.
 
 </div>
 
