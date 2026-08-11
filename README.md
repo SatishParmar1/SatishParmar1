@@ -70,7 +70,7 @@ Investigators tracking the subject have logged the following recurring behavior:
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 📂 CASE #001 — `page_navigation_transition`
 
@@ -96,7 +96,7 @@ PageNavigationTransition(
 [📄 Case File](https://pub.dev/packages/page_navigation_transition) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 📂 CASE #002 — `photo_opener_view`
 
@@ -124,7 +124,7 @@ PhotoOpenerView(
 </td>
 </tr>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 📂 CASE #003 — `smart_review_prompter`
 
@@ -133,14 +133,11 @@ PhotoOpenerView(
 
 **Verdict:** `v0.0.2` — resolved. An intelligent system that knows exactly when to ask a user for a review — and, notably, when *not* to.
 
-**Conditions required before the subject acts (all must hold):**
-```
-✓ user.launchCount        ≥ minLaunchCount
-✓ user.successfulActions  ≥ minSuccessfulActions
-✓ daysSinceInstall        ≥ minDaysSinceInstall
-✓ daysSinceLastPrompt     ≥ remindDays
-✓ user.neverAskAgain      == false
-```
+**Evidence catalogued:**
+- 🎯 Launch count, success count & install-age triggers
+- ⏳ Configurable remind-later cooldown window
+- 🚫 Respects "never ask again" permanently
+- 🍎 Native store review dialogs (iOS/Android)
 
 ```dart
 SmartReviewPrompter.instance.init(
@@ -157,24 +154,20 @@ if (await SmartReviewPrompter.instance.shouldPrompt()) {
 [📄 Case File](https://pub.dev/packages/smart_review_prompter) | [⭐ Field Report](https://github.com/SatishParmar1)
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 📂 CASE #004 — `api_network_logger`
 
 [![pub package](https://img.shields.io/pub/v/api_network_logger.svg?label=pub&color=B22222)](https://pub.dev/packages/api_network_logger)
 [![likes](https://img.shields.io/pub/likes/api_network_logger?logo=flutter)](https://pub.dev/packages/api_network_logger/score)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Verdict:** `v2.0.0` — resolved. A production-ready surveillance kit for your own app: transparently captures, compresses, and stores network traffic, offline events, system telemetry, and navigation transitions in a secure on-device SQLite database — with a draggable glassmorphic console for inspecting the evidence.
+**Verdict:** `v2.0.0` — resolved. Transparently captures, compresses, and stores network traffic, offline events, and navigation transitions in a secure on-device SQLite database.
 
 **Evidence catalogued:**
-- 🕸️ Concurrency-safe SQLite queue for reliable multi-call logging
-- 🔁 Non-destructive stream buffering (re-emits cloned streams, no broken pipes)
+- 🕸️ Concurrency-safe SQLite write queue
 - 🗜️ Smart zlib compression for large payloads
-- 🖼️ Binary/media content bypassed and summarized instead of dumped
-- 🔒 Pre-storage PII redaction engine (headers + nested JSON fields)
-- 🧭 Adapters for Dio, http, Bloc, Riverpod, GraphQL, WebSockets, and more
-- 🧩 Dev-only glassmorphic console overlay, tree-shaken from release builds
+- 🔒 Pre-storage PII redaction engine
+- 🧩 Glassmorphic debug console, dev-only overlay
 
 ```dart
 await ApiLogger.instance.init(
@@ -183,8 +176,8 @@ await ApiLogger.instance.init(
   ),
 );
 
-// Wrap in MaterialApp.builder to mount the debug console
-builder: (context, child) => ApiLoggerOverlay(child: child!),
+builder: (context, child) =>
+    ApiLoggerOverlay(child: child!),
 ```
 
 [📄 Case File](https://pub.dev/packages/api_network_logger) | [⭐ Field Report](https://github.com/SatishParmar1)
