@@ -195,11 +195,11 @@ builder: (context, child) =>
 ---
 
 **Active leads the subject is currently pursuing:**
-- 🏠 Smart Home IoT + Blockchain Integration
-- 👁️ AI Vision Assistive Technology
-- 📦 Open Source Package Development
+- 🏠 Mobile Applications
+- 👁️ IoT Technology
+- 📦 Open Source Development
 
-**Open to joint investigations on:** AI-powered mobile applications · IoT integration projects · Educational tech platforms · Open source Flutter packages · Student-Alumni networking systems
+**Open to joint investigations on:** mobile applications · IoT integration projects · tech platforms · Open source Flutter packages
 
 ---
 
